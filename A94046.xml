@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties letter to Lieutenant Generall Cromwell, concerning the treaty; and his desires therein, touching the army, and all other His liege people of what sect or sort soever. Together with His propositions, concerning His royall consort the Queen, and His gracious remonstrance touching the Church of England. Die 16. Octobr. 1648. These papers are examined by the originall copies, and subscribed Charles Rex.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94046</idno>
+            <idno type="STC">Wing S5968</idno>
+            <idno type="STC">Thomason E467_32</idno>
+            <idno type="STC">ESTC R205311</idno>
+            <idno type="EEBO-CITATION">99864723</idno>
+            <idno type="PROQUEST">99864723</idno>
+            <idno type="VID">162321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162321)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties letter to Lieutenant Generall Cromwell, concerning the treaty; and his desires therein, touching the army, and all other His liege people of what sect or sort soever. Together with His propositions, concerning His royall consort the Queen, and His gracious remonstrance touching the Church of England. Die 16. Octobr. 1648. These papers are examined by the originall copies, and subscribed Charles Rex.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Stretton, W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R. Williamson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Subscribed on p.5: Charles Rex. Followed by a 5 line summary of following 4 days of debate which centered on the "bill of Ireland." Signed: W. Stretton.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162321:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES LETTER TO Lieutenant Generall <hi>Cromwell,</hi> concerning the <hi>Treaty;</hi> and His <hi>Deſires</hi> therein, touching the <hi>Army,</hi> and all other His liege People of what Sect or Sort ſoever.</p>
+            <p>Together with His Propoſitions, concerning His Royall Conſort the Queen, and His <hi>Gracious Remonſtrance</hi> touching the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die 16. Octobr. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>THeſe Papers are examined by the originall Copies, and</p>
+                        <closer>
+                           <signed>Subſcribed CHARLES REX.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>R. Williamſon,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162321:2"/>
+            <pb n="1" facs="tcp:162321:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>depiction including a royal crown flanked by the Scottish unicorn and English lion</figDesc>
+               </figure>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>His Majeſties LETTER TO The Lord Generall <hi>Fairfax,</hi> and Lieutenant General <hi>Cromwell,</hi> communicating his Reſolution and Deſires touching the <hi>Treaty.</hi>
+                  </head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">D</seg>Iviſions in the <hi>Church,</hi> cauſe diſtractions in the <hi>State,</hi> and the ſeven yeers ſeparation between the <hi>Head</hi> and the <hi>Body,</hi> cauſeth the reſt of the members to endeavour a uniting, <hi>a perſonall Treaty</hi> being concei<g ref="char:EOLhyphen"/>ved the only means for obtaining thereof, and putting a finall end and period to all the unhappy differences throughout <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e three Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland:</hi> In conſideration whereof, His Majeſty deſires that all obſtructions may be removed, that may
+<pb n="2" facs="tcp:162321:3"/>retard ſo bleſſed a work, promiſing to leave no means unattempted, for the ſetling of a firm and laſting peace throughout his Realms and Dominions; and the bet<g ref="char:EOLhyphen"/>ter to ſatisfie his two Houſes of <hi>Parliament,</hi> he hath been graciouſly pleaſed to paſſe the Bill for recalling all his <hi>Decclarations</hi> and <hi>Proclamations,</hi> publiſhed a<g ref="char:EOLhyphen"/>gainſt either or both Houſes of <hi>Parliament;</hi> as alſo, the Bill for confirming the <hi>Militia</hi> in the power of <hi>Parliament</hi> for 20. yeers; promiſing upon his Royall word to enact the ſame, and all other Bills or Propoſi<g ref="char:EOLhyphen"/>tions whatſoever, that ſhall be agreed upon by his Ma<g ref="char:EOLhyphen"/>jeſty, and the Commiſſioners of both Houſes of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> &amp;c.</p>
+               </body>
+            </floatingText>
+            <p>And it is reported at Court, that the <hi>King</hi> hath ſent a Letter to the Lord Gen. <hi>Fairfax,</hi> and Lieut. Generall <hi>Cromwell,</hi> viz.</p>
+            <p>
+               <hi>Deſiring them to uſe all means poſſible for the propaga<g ref="char:EOLhyphen"/>ting of this preſent Treaty, and to indeavour the ſetling of a firm and laſting peace throughout his bleeding and diſtracted Kingdoms; that ſo all his liege people of what ſect or ſort ſoever, may no longer feel the cruelty and op<g ref="char:EOLhyphen"/>preſſion of a moſt bloudy and inteſtine war, but (after a ſe<g ref="char:EOLhyphen"/>ven years Pilgrimage in deſolation and confuſion) for the future, enjoy a true and everlaſting peace.</hi>
+            </p>
+            <p>And truly, I am confident, that no man deſires peace more then his Majeſty, but yet ſcruples at the <hi>Directo<g ref="char:EOLhyphen"/>ry,</hi> and argueth ſtifly for <hi>Epiſcopacy;</hi> as appears by his enſuing anſwer to the <hi>Propoſition</hi> touching the Church of <hi>England,</hi> as followeth.</p>
+            <p n="1">1 As to the Exceptions that his <hi>Maj.</hi> ſaid nothing to the conſenting to a Bill for the aboliſhing of Arch-bi<g ref="char:EOLhyphen"/>ſhops, &amp;c, nor that the Ordinance for aboliſhing them
+<pb n="3" facs="tcp:162321:3"/>be confirmed by Act of <hi>Parl.</hi> the Form of Church go<g ref="char:EOLhyphen"/>vernment and Directory for worſhip which you pre<g ref="char:EOLhyphen"/>ſented to him, and thereby hath eſtabliſhed the actuall poſſeſſion, and publike exerciſe of theſe Forms, &amp; hath ſuſpended the preſent Government and Form of wor<g ref="char:EOLhyphen"/>ſhip eſtabliſhed by law, but deſired a co<g ref="char:cmbAbbrStroke">̄</g>ſultation with Divines in the mean time for a future ſettlement, as in that paper is expreſſed: His Maj. therefore declares, that the reaſon why he did not anſwer to that part of your Propoſition, was, becauſe he was not ſatisfied in his conſcience; H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can be content to the utter aboli<g ref="char:EOLhyphen"/>ſhing of Epiſcopacy; the ſubſtance whereof hee con<g ref="char:EOLhyphen"/>ceives to conſiſt in the power of Ordination and Ju<g ref="char:EOLhyphen"/>riſdictio<g ref="char:cmbAbbrStroke">̄</g>, as they were exerciſed by the Apoſtles them ſelves, and others, by authority derived from them, ſu<g ref="char:EOLhyphen"/>perior to Presbyters &amp; Deaco<g ref="char:cmbAbbrStroke">̄</g>s in the primitive times: but becauſe he acknowledgeth that Biſhops were to have councel and aſſiſtance of Presbyters in Ordina<g ref="char:EOLhyphen"/>tion and Juriſdiction, and in the laſt were, and are limi<g ref="char:EOLhyphen"/>ted by the Civill power, his Maj. deſired the conſuta<g ref="char:EOLhyphen"/>tion with the Divines, to the end that he and his two Houſes might determine in what manner Ordination and Juriſdiction might be moderated and regulated for the future government of the Church, His Maje<g ref="char:EOLhyphen"/>ſties Reſolution being to comply with his two houſes for the alteration and regulating of his preſent Hierar<g ref="char:EOLhyphen"/>chy and Government, ſo as Epiſcopacy reduced to the Primitive uſage may be ſetled and continued in this Church: and therefore his Maj. heartily deſires their concurrence in the one, that he may with more free<g ref="char:EOLhyphen"/>dom give his aſſent to the other.</p>
+            <p n="2">2 As to the Exception, that his Maj. hath not expreſ<g ref="char:EOLhyphen"/>ſed
+<pb n="4" facs="tcp:162321:4"/>his conſent for ſetling of Biſhops Lands upon tru<g ref="char:EOLhyphen"/>ſtees, and for the ſale of thoſe lands, its true, he hath not to alienate the Inheritance of thoſe lands, and herein he believes he hath concurrent opinions of many Divines, that in other points differ much among themſelves, but his former anſwer containing a large offer of ſa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sfa<g ref="char:EOLhyphen"/>ction to al thoſe that have purchaſed, or disburſed mo<g ref="char:EOLhyphen"/>nies upon thoſe lands, he hopes that anſwer, to which he now refers, will be ſatisfactory to his two houſes.</p>
+            <p n="3">3 His Maj. will confirm the publike uſe of the <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<g ref="char:EOLhyphen"/>ctory</hi> in all Churches and Chappels, and will conſent to the repeal of ſo much of all ſtatutes, as only con<g ref="char:EOLhyphen"/>cerns the Book of <hi>Common prayer,</hi> and alſo to the ta<g ref="char:EOLhyphen"/>king the ſame away out of all Churches and Chapels; provided that the uſe thereof may be continued in his Maj. Chappell, for himſelf and his Houſhold.</p>
+            <p n="4">4 And whereas you deſire to know whither his Maj. by ſaying in his paper of the 13 of <hi>Sep.</hi> that he wil give his Royal aſſent to an act for the better obſervation of the Lords day, intends the confirming the Ordinance preſented unto him, his Maj. thereunto anſwers, that the Bill for ſuppreſſing of innovations, to which you de<g ref="char:EOLhyphen"/>ſire his concurrence, which he is willing to give, con<g ref="char:EOLhyphen"/>tains in it full proviſion of the due obſervation of the Lords Day, and if that be not thought ſufficient his Maj. will conſent to paſſe an Act to confirm the mat<g ref="char:EOLhyphen"/>ter of the Ordinance for ſo much as concernes the Ob<g ref="char:EOLhyphen"/>ſervatio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of that day.</p>
+            <p n="5">5 His Maj. conceived he had given a full Anſwer to your deſire, that there might be a ſtricter courſe taken to prevent the ſaying or hearing of Maſſe in the court, or any other place of this <hi>Kingdom,</hi> or <hi>Kingdom</hi> of
+<pb n="5" facs="tcp:162321:4"/>
+               <hi>Ireland:</hi> It is well known of what profeſſion his Royall Conſort is, and what proviſion is made by the two Crowns in the Articles of Marriage for her exerciſe thereof. But what ever particulars ſhall be propoſed to him for reſtraining it to the places aforeſaid, and li<g ref="char:EOLhyphen"/>miting it to her <hi>Maiesty</hi> and her own Family, wherein are but very few Engliſh and not many French of her profeſſion, his <hi>Maieſty</hi> never did, nor will deny his con<g ref="char:EOLhyphen"/>ſent thereunto.</p>
+            <p>And laſtly, concerning the Covenant, and the Ordi<g ref="char:EOLhyphen"/>nance concerning the ſame, his <hi>Majeſties</hi> Anſwer being, <hi>That He was not yet ſatisfied to take it, or impoſe it on o<g ref="char:EOLhyphen"/>thers,</hi> He conceives his two Houſes will not inſiſt up<g ref="char:EOLhyphen"/>on it at this time; and the rather, becauſe the ends ther<g ref="char:EOLhyphen"/>of will be obtained by the Agreement, if happily con<g ref="char:EOLhyphen"/>cluded, which God grant.</p>
+            <p>Theſe <hi>Propoſals</hi> were delivered to the <hi>Parliaments Commiſſioners on Munday last, in the Treaty Chamber, by His Majeſty, and</hi>
+               <q>Subſcribed CHARLES REX.</q>
+            </p>
+            <p>Since the reception of theſe <hi>Propoſals</hi> the King and the <hi>Comiſſioners</hi> have debated the Bill of <hi>Ireland,</hi> which hath been the main buſineſſe inſiſted on for theſe four dayes; as for other particulars I ſhall reſer you to the incloſed, and remain</p>
+            <closer>
+               <dateline>Newport <date>13. Octob. 1648.</date>
+               </dateline>
+               <signed>Your Honours devoted Servant, <hi>W. STRETTON.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <pb n="6" facs="tcp:162321:5"/>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>ON Wedneſda<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laſt, the King and the Commiſſioners met in the Treaty Chamber about 8 of the clock in the morning, and had much dispute upon the paper con<g ref="char:EOLhyphen"/>cerning <hi>Ireland,</hi> and it is conceived, will make a ſpeedy concluſion thereupon; After which, the Bill of Church go<g ref="char:EOLhyphen"/>vernment is to be tendered again to his Majeſty, and this day upon a motion to the King, touching the ſame, the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London</hi> roſe up at the Councell Table, and made a very learned Speech to the King, and the Commiſſioners on both ſides<g ref="char:punc">▪</g> touching the Diſcipline of the Church of Eng<g ref="char:EOLhyphen"/>land, in relation to Presbyters and Elders; and after a Conference between the Clergy, the treaty was adjourned till Munday.</p>
+               <closer>
+                  <dateline>Newport <date>14. Octo. 1648.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
